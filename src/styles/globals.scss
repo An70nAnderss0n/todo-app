@@ -1,0 +1,18 @@
+$base-light-color: #594b43;
+$base-dark-color: #f2f2f0;
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: $base-light-color;
+  color: $base-dark-color;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  h1 {
+    margin: 0;
+  }
+}
